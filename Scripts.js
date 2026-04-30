@@ -1,4 +1,4 @@
-﻿const AUTH_API_URL = "https://script.google.com/macros/library/d/1iYbOfat4VX7YCGng2txRmUzFBokAWpNu6OMBjA33sVS6n_mZ5PQzHvhk/1";
+﻿const AUTH_API_URL = "https://script.google.com/a/macros/crepesywafflesantioquia.com/s/AKfycbyTqHC1as7ahGbG14_r5WJq3Dkg10SHGYT65Kr58adf-3wnvCokYPelSy4YejoVANUT/exec";
 
 const AuthGate = {
     tokenKey: "pm_auth_token",
